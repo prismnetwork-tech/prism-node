@@ -1,0 +1,25 @@
+name: Node proposal
+description: Propose a node runtime or operator change.
+title: "[proposal] "
+labels:
+  - proposal
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+    validations:
+      required: true
+  - type: textarea
+    id: compatibility
+    attributes:
+      label: Safety and migration
+      description: Address privileges, isolation, recovery and rollout.
+    validations:
+      required: true

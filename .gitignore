@@ -1,0 +1,5 @@
+/target/
+*.log
+*.pem
+*.key
+.DS_Store
