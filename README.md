@@ -1,6 +1,7 @@
 # Prism Node
 
 [![Validate](https://github.com/prismnetwork-tech/prism-node/actions/workflows/validate.yml/badge.svg)](https://github.com/prismnetwork-tech/prism-node/actions/workflows/validate.yml)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/prismnetwork-tech/prism-node/badge)](https://securityscorecards.dev/viewer/?uri=github.com/prismnetwork-tech/prism-node)
 [![License](https://img.shields.io/badge/license-Apache--2.0-ccff00)](LICENSE)
 
 `prismd` is the supplier-side daemon for Prism Network. It enrolls a GPU host,
